@@ -122,7 +122,7 @@ Material:
     - _LightPos: {r: 0, g: 0, b: 0, a: 1}
     - _LightTint: {r: 1, g: 1, b: 1, a: 0}
     - _LightmapColor: {r: 0, g: 0, b: 0, a: 0}
-    - _MainColor: {r: 1, g: 0.8509804, b: 1, a: 1}
+    - _MainColor: {r: 0.7137255, g: 0.91764706, b: 0.7137255, a: 1}
     - _MainColorBottom: {r: 1, g: 0.73, b: 0.117, a: 0}
     - _RightColor: {r: 0.9, g: 0.9, b: 0.9, a: 0}
     - _RightColorBottom: {r: 0.9, g: 0.9, b: 0.9, a: 0}
